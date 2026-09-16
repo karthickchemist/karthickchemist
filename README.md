@@ -2,7 +2,7 @@
 
 <img src="assets/hero-banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=F5E727&background=000000&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;B.Sc+Chemistry+%E2%86%92+AI-Integrated+Developer;React+%7C+GSAP+%7C+Node+%7C+Applied+AI;Compiling+creativity+%2B+logic..." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=000000&background=F5E727&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;B.Sc+Chemistry+%E2%86%92+AI-Integrated+Developer;React+%7C+GSAP+%7C+Node+%7C+Applied+AI;Compiling+creativity+%2B+logic..." alt="typing" />
 
 <br/>
 
