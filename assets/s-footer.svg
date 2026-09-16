@@ -1,0 +1,13 @@
+<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="110" fill="#000000"/>
+  <rect x="1" y="1" width="898" height="108" fill="none" stroke="#FFE600" stroke-width="1.2" stroke-opacity="0.4"/>
+  <text x="450" y="50" font-family="'JetBrains Mono','Courier New',monospace" font-size="16" fill="#FFE600" text-anchor="middle" opacity="0.9">
+    &gt; connection_status: STABLE
+  </text>
+  <text x="450" y="78" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#ffffff" text-anchor="middle" opacity="0.65">
+    Thanks for stopping by — let's engineer something intelligent.
+  </text>
+  <rect x="466" y="85" width="9" height="13" fill="#FFE600">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
