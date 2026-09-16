@@ -1,0 +1,15 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="120" fill="#0d0d0d"/>
+  <rect x="1" y="1" width="898" height="118" fill="none" stroke="#8a8a8a" stroke-width="1"/>
+
+  <text x="450" y="52" font-family="'JetBrains Mono','Courier New',monospace" font-size="16" fill="#ffffff" text-anchor="middle" letter-spacing="1">
+    $ echo "connection stable"
+  </text>
+  <text x="450" y="82" font-family="'JetBrains Mono','Courier New',monospace" font-size="12.5" fill="#8a8a8a" text-anchor="middle">
+    Thanks for stopping by — let's build something intelligent.
+  </text>
+
+  <rect x="466" y="90" width="9" height="13" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

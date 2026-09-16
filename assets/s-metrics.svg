@@ -1,0 +1,18 @@
+<svg width="900" height="95" viewBox="0 0 900 95" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="d3" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#ffffff" opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="95" fill="#0d0d0d"/>
+  <rect width="900" height="95" fill="url(#d3)"/>
+  <rect x="1" y="1" width="898" height="93" fill="none" stroke="#8a8a8a" stroke-width="1"/>
+  <rect x="0" y="0" width="5" height="95" fill="#ffffff"/>
+
+  <text x="40" y="30" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#8a8a8a" letter-spacing="1">$ stats --live</text>
+  <text x="40" y="66" font-family="'Orbitron','JetBrains Mono',sans-serif" font-size="27" font-weight="800" fill="#ffffff" letter-spacing="2">GITHUB_METRICS</text>
+
+  <rect x="856" y="34" width="12" height="18" fill="#ffffff" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.15;0.9" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
