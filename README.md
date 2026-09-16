@@ -62,12 +62,12 @@ status      : "ONLINE"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthickchemist&show_icons=true&theme=transparent&bg_color=000000&title_color=F5E727&icon_color=F5E727&text_color=ffffff&border_color=F5E727&hide_border=false&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthickchemist&theme=dark&background=000000&border=F5E727&stroke=F5E727&ring=F5E727&fire=F5E727&currStreakLabel=F5E727&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karthickchemist&show_icons=true&theme=transparent&bg_color=F5E727&title_color=000000&icon_color=F5E727&text_color=ffffff&border_color=F5E727&hide_border=false&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthickchemist&theme=dark&background=F5E727&border=000000&stroke=000000&ring=F5E727&fire=F5E727&currStreakLabel=F5E727&hide_border=false" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthickchemist&layout=compact&theme=transparent&bg_color=000000&title_color=F5E727&text_color=ffffff&border_color=F5E727&hide_border=false" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthickchemist&layout=compact&theme=transparent&bg_color=F5E727&title_color=000000&text_color=ffffff&border_color=F5E727&hide_border=false" width="60%"/>
 
 </div>
 
