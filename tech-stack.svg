@@ -1,0 +1,15 @@
+<svg width="1600" height="330" viewBox="0 0 1600 330" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="330" fill="#080808" rx="4"/>
+<g stroke="#2C2C2C">
+<path d="M0 55H1600M0 110H1600M0 165H1600M0 220H1600M0 275H1600"/>
+<path d="M160 0V330M320 0V330M480 0V330M640 0V330M800 0V330M960 0V330M1120 0V330M1280 0V330M1440 0V330"/>
+</g>
+<g fill="#EEE" font-family="monospace" font-size="16">
+<text x="55" y="50">FRONTEND</text><text x="215" y="50">REACT</text><text x="375" y="50">TYPESCRIPT</text><text x="535" y="50">NEXT.JS</text><text x="695" y="50">VITE</text><text x="855" y="50">TAILWIND</text>
+<text x="55" y="105">MOTION</text><text x="215" y="105">GSAP</text><text x="375" y="105">FRAMER MOTION</text><text x="615" y="105">LENIS</text>
+<text x="55" y="160">3D / WEBGL</text><text x="215" y="160">THREE.JS</text><text x="375" y="160">R3F</text><text x="535" y="160">WEBGL</text>
+<text x="55" y="215">TOOLS</text><text x="215" y="215">GIT</text><text x="375" y="215">GITHUB</text><text x="535" y="215">FIGMA</text><text x="695" y="215">VERCEL</text>
+<text x="55" y="270">SCIENCE</text><text x="215" y="270">XRF</text><text x="375" y="270">XRD</text><text x="535" y="270">ANALYTICAL CHEMISTRY</text>
+</g>
+<text x="1430" y="300" fill="#555" font-family="monospace" font-size="11">STACK_01</text>
+</svg>
