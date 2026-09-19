@@ -1,5 +1,0 @@
-<svg width="1600" height="80" viewBox="0 0 1600 80" xmlns="http://www.w3.org/2000/svg">
-<line x1="0" y1="40" x2="1600" y2="40" stroke="#333"/>
-<circle cx="0" cy="40" r="4" fill="#FFF"><animate attributeName="cx" from="0" to="1600" dur="5s" repeatCount="indefinite"/></circle>
-<text x="790" y="34" fill="#666" font-family="monospace" font-size="11" text-anchor="middle">SYSTEM / FLOW</text>
-</svg>
