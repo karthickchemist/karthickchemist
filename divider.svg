@@ -1,0 +1,4 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#FF304F" stop-opacity="0"/><stop offset=".5" stop-color="#FF304F"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></linearGradient><style>@keyframes a{0%{transform:translateX(-900px)}100%{transform:translateX(900px)}}.s{animation:a 5s linear infinite}</style></defs>
+<path d="M0 45H1200" stroke="#27272A"/><path class="s" d="M0 45H320" stroke="url(#g)" stroke-width="3"/><circle cx="600" cy="45" r="4" fill="#FF304F"/><circle cx="600" cy="45" r="13" stroke="#FF304F" stroke-opacity=".25"/>
+</svg>
